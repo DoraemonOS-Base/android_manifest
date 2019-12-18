@@ -138,6 +138,7 @@ EX:
  * [**Cosmic**](https://github.com/Cosmic-OS)
  * [**AOSiP**](https://github.com/aosip)
  * [**bootlegger**](https://github.com/BootleggersROM)
+ * [**CherishOS**](https://github.com/CherishOS)
  * [**AOSP**](https://android.googlesource.com)
  
  # Doraemon Maintainer : #
