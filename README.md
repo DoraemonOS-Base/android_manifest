@@ -142,13 +142,11 @@ EX:
  * [**AOSP**](https://android.googlesource.com)
  
  # Doraemon Maintainer : #
- * [**hungphan2001**](https://github.com/hungphan2001)
  * [**Nobi Nobita**](https://github.com/dopaemon)
  
  # Doraemon Channel + Group : #
  * [**Telegram-Channel**](https://t.me/DoraemonOS)
  * [**Telegram-Group**](https://t.me/DoraemonOS_Chat)
  * [**Facebook Nobi Nobita**](https://facebook.com/nobita.developer)
- * [**Facebook Hungphan2001**](https://www.facebook.com/hungphan2001)
  
 
