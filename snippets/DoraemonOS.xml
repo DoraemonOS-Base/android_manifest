@@ -28,6 +28,7 @@
   <!-- <project path="external/roboto-fonts" name="android_external_roboto-fonts" remote="dora" /> -->
   <!-- <project path="external/sqlite" name="android_external_sqlite" remote="dora" /> -->
   <project path="external/tinycompress" name="android_external_tinycompress" remote="dora" />
+  <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="dora" />
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="android_frameworks_av" remote="dora" />
