@@ -36,6 +36,7 @@
   <!-- <project path="frameworks/doraemon" name="android_frameworks_doraemon" remote="dora" /> -->
   <project path="frameworks/native" name="android_frameworks_native" remote="dora" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="dora" />
+  <project path="frameworks/support/lottie" name="android_frameworks_support_lottie" remote="dora" />
 
   <!-- General -->
   <project path="bionic" name="android_bionic" remote="dora" />
