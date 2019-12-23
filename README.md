@@ -61,6 +61,12 @@ Bin :
 ```
 
 To initialize your local repository, use a command like this:
+```bash
+   mkdir -p ~/android
+```
+```bash
+   cd ~/android
+```
 
 ```bash
    repo init -u https://github.com/DoraemonOS/android_manifest.git -b Quiche
