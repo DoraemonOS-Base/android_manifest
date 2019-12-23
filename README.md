@@ -46,7 +46,19 @@ And :
 
 Repo Sync :
 ===========
-
+Bin :
+```bash
+   mkdir ~/bin
+```
+```bash
+   PATH=~/bin:$PATH
+``` 
+```bash
+   curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+```
+```bash
+   chmod a+x ~/bin/repo
+```
 
 To initialize your local repository, use a command like this:
 
