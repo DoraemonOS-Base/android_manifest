@@ -799,6 +799,6 @@
   <include name="snippets/DoraemonOS.xml" />
 
   <!-- Add all External repos -->
-  <include name="snippets/Externa.xml" />
+  <include name="snippets/External.xml" />
 
 </manifest>
