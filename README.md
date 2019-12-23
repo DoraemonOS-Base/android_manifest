@@ -26,7 +26,7 @@ Repo Sync :
 To initialize your local repository, use a command like this:
 
 ```bash
-   repo init -u https://github.com/DoraemonOS/android_manifest.git -b Tester
+   repo init -u https://github.com/DoraemonOS/android_manifest.git -b Quiche
 ```
 
 
