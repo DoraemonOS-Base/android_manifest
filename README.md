@@ -37,7 +37,7 @@ And :
 ```
 And :
 ```bash
-   sudo apt-get install -y build-essential kernel-package libncurses5-dev bzip2 android-liblog
+   sudo apt-get install -y build-essential kernel-package libncurses5-dev bzip2 android-liblog android-libbacktrace
 ```
 
 Repo Sync :
