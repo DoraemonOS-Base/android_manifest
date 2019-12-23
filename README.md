@@ -25,7 +25,7 @@ Update Source Packages :
 ```
 Upgrade Source Packages :
 ```bash
-   sudo apt-get update
+   sudo apt-get upgrade -y
 ```
 Install Packages :
 ```bash
