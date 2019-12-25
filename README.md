@@ -186,10 +186,12 @@ EX:
  
  # Doraemon Maintainer : #
  * [**Nobi Nobita**](https://github.com/dopaemon)
+ * [**Đinh San**](https://github.com/dinhsan2000)
  
  # Doraemon Channel + Group : #
  * [**Telegram-Channel**](https://t.me/DoraemonOS)
  * [**Telegram-Group**](https://t.me/DoraemonOS_Chat)
  * [**Facebook Nobi Nobita**](https://facebook.com/nobita.developer)
+ * [**Facebook Đinh San**](https://facebook.com/profile.php?id=100007847622202)
  
 
